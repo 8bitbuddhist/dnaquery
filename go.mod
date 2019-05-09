@@ -1,4 +1,4 @@
-module github.com/lifechurch/dnaquery
+module github.com/8bitbuddhist/dnaquery
 
 require (
 	cloud.google.com/go v0.32.0
